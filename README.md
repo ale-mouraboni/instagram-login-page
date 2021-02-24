@@ -1,27 +1,32 @@
-<h1 align="center">Clone Instagram</h1>
+<h1 align="center">Instagram Login Page</h1>
 <p align="center">
-  <img src="assets/readme/instagram-login-page.png">
+  
+  ![Primeira Página](readme/demo.png)
+
 </p>
 
 <p align="center">
-  Esse projeto foi desenvolvido durante o bootcamp <strong>HTML Web Developer</strong> da plataforma <a href="https://digitalinnovation.one/">Digital Innovation One</a>.
+  Esse projeto foi desenvolvido durante o bootcamp <strong>HTML Web Developer</strong> na plataforma <a href="https://digitalinnovation.one/">Digital Innovation One</a>.
 </p>
 
 <p align="center">
-  <a href="#technology">Tecnologias</a> | 
-  <a href="#c-utilizar">Como Utilizar</a> |
-  <a href="#about">About</a> |
-  <a href="#license">License</a> 
+   <a href="#globe_with_meridians-Tecnologias">Tecnologias</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-Como-Utilizar">Como Utilizar</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#heavy_check_mark-About">About</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-License">License</a> 
+</p>
 </p>
 
-<h2 id="technology">:globe_with_meridians: Tecnologias</h2>
+## :globe_with_meridians: Tecnologias
 <p>Projeto desenvolvido com as seguintes tecnologias:</p>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-</ul>
 
-<h2 id="c-utilizar">:wrench: Como Utilizar</h2>
+* HTML5
+* CSS3
+
+## :wrench: Como Utilizar
 
 ```
 #1 - Clone o repositório
@@ -30,14 +35,15 @@ $ git clone https://github.com/ale-mouraboni/instagram-login-page.git
 #2 - Abra o index.html
 ```
 
-<h2 id="about">:heavy_check_mark: About</h2>
-<p>Um simples clone da tela de Login do Instagram.
+## :heavy_check_mark: About
+<p>Esse projeto é um clone bem símples da página de login do Instagram, desenvolvido com o básico de HTML e CSS.
 </br>
-Esse projeto foi desenvolvido durante o bootcamp HTML Web Developer da plataforma Digital Innovation One.
-<h4>Responsive?</h4>
-[ ] Yes  [x] No
+Projeto desenvolvido durante o bootcamp <strong>HTML Web Developer</strong> na plataforma <strong>Digital Innovation One</strong>.
 </p>
 
-<h2 id="license">:memo: License</h2>
+### Responsive?
+[x] Yes  [ ] No
+
+## :memo: License
 <p>This project is under the MIT license. See the [LICENSE] for more information.
 </p>
