@@ -1,49 +1,34 @@
-<h1 align="center">Instagram Login Page</h1>
-<p align="center">
-  
-  ![Primeira Página](readme/demo.png)
+# Demo
+![Demo](readme/demo.png)
 
-</p>
+## Menu
+* [Tecnologias](#Tecnologias)
+* [Como Utilizar](#Como-Utilizar)
+* [About](#About)
+* [Link do Curso](#Link-do-Curso)
+* [License](#License)
 
-<p align="center">
-  Esse projeto foi desenvolvido durante o bootcamp <strong>HTML Web Developer</strong> na plataforma <a href="https://digitalinnovation.one/">Digital Innovation One</a>.
-</p>
-
-<p align="center">
-   <a href="#globe_with_meridians-Tecnologias">Tecnologias</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wrench-Como-Utilizar">Como Utilizar</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#heavy_check_mark-About">About</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-License">License</a> 
-</p>
-</p>
-
-## :globe_with_meridians: Tecnologias
-<p>Projeto desenvolvido com as seguintes tecnologias:</p>
-
+## Tecnologias
+Projeto desenvolvido com as seguintes tecnologias:
 * HTML5
 * CSS3
 
-## :wrench: Como Utilizar
-
+## Como Utilizar
 ```
-#1 - Clone o repositório
+1. - Clone o repositório
 $ git clone https://github.com/ale-mouraboni/instagram-login-page.git
 
-#2 - Abra o index.html
+2. - Abra o index.html
 ```
 
-## :heavy_check_mark: About
-<p>Esse projeto é um clone bem símples da página de login do Instagram, desenvolvido com o básico de HTML e CSS.
-</br>
-Projeto desenvolvido durante o bootcamp <strong>HTML Web Developer</strong> na plataforma <strong>Digital Innovation One</strong>.
-</p>
+## About
+Esse projeto é um clone bem símples da página de login do Instagram, desenvolvido com o básico de HTML e CSS.  
+Projeto desenvolvido durante o bootcamp **HTML Web Developer** na **plataforma Digital Innovation One**.
 
-### Responsive?
-[x] Yes  [ ] No
+### Link do Curso:
 
-## :memo: License
-<p>This project is under the MIT license. See the [LICENSE] for more information.
-</p>
+* [Digital Innovation One - HTML Web Developer](https://digitalinnovation.one/)
+
+## License
+This project is under the MIT license. See the [LICENSE] for more information.
+
