@@ -1,34 +1,41 @@
-# Demo
 ![Demo](readme/demo.png)
 
-## Menu
-* [Tecnologias](#Tecnologias)
-* [Como Utilizar](#Como-Utilizar)
-* [About](#About)
-* [Link do Curso](#Link-do-Curso)
-* [License](#License)
+---
 
-## Tecnologias
-Projeto desenvolvido com as seguintes tecnologias:
+<div style="text-align: justify">
+
+### Descrição
+Esse é um clone da tela de login do Instagram, é um projeto bem simples que foi desenvolvido apenas com HTML e CSS. Esse projeto foi desenvolvido durante o bootcamp HTML Web Developer na plataforma Digital Innovation One.
+
+</div>
+
+---
+
+#### Link da Plataforma:
+
+* [Digital Innovation One](https://digitalinnovation.one/)
+
+---
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 * HTML5
 * CSS3
 
-## Como Utilizar
-```
-1. - Clone o repositório
-$ git clone https://github.com/ale-mouraboni/instagram-login-page.git
+---
 
-2. - Abra o index.html
-```
+Para ver o projeto você pode clonar ele com o seguinte comando:    
 
-## About
-Esse projeto é um clone bem símples da página de login do Instagram, desenvolvido com o básico de HTML e CSS.  
-Projeto desenvolvido durante o bootcamp **HTML Web Developer** na **plataforma Digital Innovation One**.
+```sh
+git clone https://github.com/ale-mouraboni/instagram-login-page.git
+```  
+  
+Você também pode baixar o arquivo .zip do projeto, basta clicar no botão abaixo.  
+  
+[Baixar Projeto](https://github.com/ale-mouraboni/instagram-login-page/archive/refs/heads/main.zip)
 
-### Link do Curso:
+---
 
-* [Digital Innovation One - HTML Web Developer](https://digitalinnovation.one/)
-
-## License
+### License
 This project is under the MIT license. See the [LICENSE] for more information.
 
+---
