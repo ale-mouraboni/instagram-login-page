@@ -9,19 +9,13 @@ Esse é um clone da tela de login do Instagram, é um projeto bem simples que fo
 
 </div>
 
----
-
 #### Link da Plataforma:
 
 * [Digital Innovation One](https://digitalinnovation.one/)
 
----
-
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 * HTML5
 * CSS3
-
----
 
 Para ver o projeto você pode clonar ele com o seguinte comando:    
 
@@ -31,7 +25,7 @@ git clone https://github.com/ale-mouraboni/instagram-login-page.git
   
 Você também pode baixar o arquivo .zip do projeto, basta clicar no botão abaixo.  
   
-[Baixar Projeto](https://github.com/ale-mouraboni/instagram-login-page/archive/refs/heads/main.zip)
+* [Baixar Projeto](https://github.com/ale-mouraboni/instagram-login-page/archive/refs/heads/main.zip)
 
 ---
 
