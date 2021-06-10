@@ -1,5 +1,5 @@
 <h1 align="center">Instagram</h1>
-<p align="center">A small instagram clone made with HTML and CSS. Project developed in the bootcamp HTML Web Developer on the Digital Innovation One platform.
+<p align="center">A small instagram clone made with HTML and CSS. Project developed in the bootcamp HTML Web Developer on the <strong>Digital Innovation One</strong> platform.
 </br>
 <a href="https://www.digitalinnovation.one">Access Platform</a>
 </p>
